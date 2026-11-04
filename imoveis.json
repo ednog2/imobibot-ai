@@ -1,0 +1,46 @@
+
+[
+  {
+    "id": "56099",
+    "edificio": "Carmel Garden",
+    "tipo": "Apartamento",
+    "finalidade": "Locação",
+    "bairro": "Gleba Palhano",
+    "cidade": "Londrina",
+    "quartos": 2,
+    "suites": 0,
+    "area_m2": 82,
+    "preco": 3100,
+    "url": "https://www.santamerica.com.br/alugar/Londrina/Apartamento/Padrao/Gleba-Palhano/56099",
+    "fonte": "Santamérica"
+  },
+  {
+    "id": "55960",
+    "edificio": "Carmel",
+    "tipo": "Apartamento",
+    "finalidade": "Locação",
+    "bairro": "Gleba Palhano",
+    "cidade": "Londrina",
+    "quartos": 2,
+    "suites": 1,
+    "area_m2": 64,
+    "preco": 2800,
+    "url": "https://www.santamerica.com.br/alugar/Londrina/Apartamento/Padrao/Gleba-Palhano/55960",
+    "fonte": "Santamérica"
+  },
+  {
+    "id": "55590",
+    "edificio": "Central Park",
+    "tipo": "Apartamento",
+    "finalidade": "Locação",
+    "bairro": "Gleba Palhano",
+    "cidade": "Londrina",
+    "quartos": 3,
+    "suites": 1,
+    "area_m2": 90,
+    "preco": 3200,
+    "url": "https://www.santamerica.com.br/alugar/Londrina/Apartamento/Padrao/Gleba-Palhano/55590",
+    "fonte": "Santamérica"
+  }
+]
+
